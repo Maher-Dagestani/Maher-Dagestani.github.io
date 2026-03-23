@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: My Project Page
+---
 
 # my projects
 
