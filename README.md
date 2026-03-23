@@ -9,7 +9,7 @@ hi! i am maher, an ambtios student at [KFUPM](https://www3.kfupm.edu.sa/about-us
 - java
 
 you can see the projects i made here:
-[my progect's](projects.md)
+[![my progect's](Gemini_Generated_Image_x8lmwdx8lmwdx8lm.png)](projects.md)
 
 you can see the hackathons i joined here:
 [my hackathons](hackathons.md)
