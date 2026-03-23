@@ -8,3 +8,8 @@ hi! i am maher, an ambtios student at [KFUPM](https://www3.kfupm.edu.sa/about-us
 - python
 - java
 
+you can see the projects i made here:
+[my progect's](projects.md)
+
+you can see the hackathons i joined here:
+[my hackathons](hackathons.md)
