@@ -9,4 +9,4 @@ hi! i am maher, an ambtios student at [KFUPM](https://www3.kfupm.edu.sa/about-us
 - java
 
 
-[![Projects](projects_icon.png)](projects.md) &nbsp;&nbsp;&nbsp;&nbsp; [![Hackathons](hackathonsIcon.png)](hackathons.md)
+[![Projects](progects_icon.png)](projects.md) &nbsp;&nbsp;&nbsp;&nbsp; [![Hackathons](hackathonsIcon.png)](hackathons.md)
